@@ -1,0 +1,20 @@
+# IntelliJ #
+.idea
+**.iml
+
+## Angular ##
+# compiled output
+download-app-front/dist
+download-app-front/target
+download-app-front/node
+
+# dependencies
+download-app-front/node_modules
+
+# e2e
+download-app-front/e2e/*.js
+download-app-front/e2e/*.map
+
+### Spring boot ###
+download-app-api/target/
+download-app-api/.mvn
